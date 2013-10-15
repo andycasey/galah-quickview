@@ -1,0 +1,20 @@
+Shalom Andy (cc Sarah) 
+
+Mah Nishmah? [straight from google http://www.dummies.com/how-to/content/greeting-and-saying-goodbye-in-hebrew.html] 
+
+Does this following sound like something you could "code-up" while brewing coffee? 
+
+1. Read in a raw fits file from HERMES. 
+
+2. Make a column-cut (or line cut) along the file and produce a plot that shows the peak counts from each star_fiber/sky_fiber (implot in IRAF can do this, but it would be useful to be able to mask out certain regions and/or zoom in as necessary) 
+
+3. Estimate the total counts for each star_fiber/sky_fiber and make a histogram showing the distribution of those counts. (This would require some knowledge of where each fibre falls on the CCD, the FWHM, the baseline counts etc.) 
+
+As you may recall from a HERMES meeting in Sydney in July(?), such a code was suggested as being a very useful tool to enable the observers at the AAT to estimate if S/N=100 (or whatever number is appropriate) has been obtained for some useful fraction of the stars observed. 
+
+I could try to do this, but it would be (a) ugly and (b) slow because I use IDL. As I mumbled to Sarah, "I'll learn python/a_useful_code if/when I get tenure". If you wanted to, I reckon you could do it in < 42 lines of code. 
+
+L'hitraot
+
+Dave
+
